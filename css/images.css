@@ -5,7 +5,7 @@
     left: 57.5%;
     width: 280px;
     height: 270px;
-    background-image: url('/Proyecto Web/Proyecto Web/Images/celular-contacto.png');
+    background-image: url('/POZO1/Images/celular-contacto.png');
     background-size: 25%; /* Escala la imagen para cubrir todo el cuerpo */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
     background-position: 0px 0px; /* Personaliza la posición de la imagen de fondo (ejemplo) */
@@ -17,7 +17,7 @@
     left: 57.5%;
     width: 270px;
     height: 280px;
-    background-image: url('/Proyecto Web/Proyecto Web/Images/ico-hora.png');
+    background-image: url('/POZO1/Images/ico-hora.png');
     background-size: 25%; /* Escala la imagen para cubrir todo el cuerpo */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
     background-position: 0px 0px; /* Personaliza la posición de la imagen de fondo (ejemplo) */
@@ -27,7 +27,7 @@
     position: relative;
     width: 99.98%;
     height: 923px;
-    background-image: url('/Proyecto Web/Proyecto Web/Images/historia.png');
+    background-image: url('/POZO1/Images/historia.png');
     background-size: cover; /* Escala la imagen para cubrir todo el cuerpo */
     background-position: center; /* Posiciona la imagen en el centro del contenedor */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -40,7 +40,7 @@
     left: 27%;
     width: 694px;
     height: 189px;
-    background-image: url('/Proyecto Web/Proyecto Web/Images/horario.PNG');
+    background-image: url('/POZO1/Images/horario.PNG');
     background-size: cover; /* Escala la imagen para cubrir todo el cuerpo */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
     background-position: 0px 0px; /* Personaliza la posición de la imagen de fondo (ejemplo) */
@@ -50,7 +50,7 @@
     position: absolute;
     width: 99.98%;
     height: 923px;
-    background-image: url('/Proyecto Web/Proyecto Web/Images/licores-contacto.png');
+    background-image: url('/POZO1/Images/licores-contacto.png');
     background-size: cover; /* Escala la imagen para cubrir todo el cuerpo */
     background-position: center; /* Posiciona la imagen en el centro del contenedor */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -61,7 +61,7 @@
     position: relative;
     width: 99.98%;
     height: 923px;
-    background-image: url('/Proyecto Web/Proyecto Web/Images/fondoUBI.png');
+    background-image: url('/POZO1/Images/fondoUBI.png');
     background-size: cover; /* Escala la imagen para cubrir todo el cuerpo */
     background-position: center; /* Posiciona la imagen en el centro del contenedor */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
