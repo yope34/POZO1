@@ -63,8 +63,8 @@ logout.addEventListener('click', e => {
 })*/
 
 auth.onAuthStateChanged(user => {
-    const cartaLink = document.querySelector('a[href="/Proyecto Web/Proyecto Web/html/carta.html"]');
-    const carritoLink = document.querySelector('a[href="/Proyecto Web/Proyecto Web/html/carrito.html"]');
+    const cartaLink = document.querySelector('a[href="/POZO1/html/carta.html"]');
+    const carritoLink = document.querySelector('a[href="/POZO1/html/carrito.html"]');
     const logoutLink =  document.querySelector('#logout');
     
     if (user) {
